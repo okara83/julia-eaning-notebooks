@@ -1,1 +1,1 @@
-# julia-eaning-notebooks
+# julia-learning-notebooks
